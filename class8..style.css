@@ -1,3 +1,6 @@
+.h1{
+    text-align: center;
+}
 .first{
     background-color: #3283c5;
 }
@@ -9,4 +12,20 @@
 }
 .fourth{
     background-color:#53b6e7 ;
+}
+.fifth{
+    background-color:#f5afcc;
+
+}
+.sixth{
+    background-color:#f38eb7;
+
+}
+.seventh{
+    background-color:#f16797;
+
+}
+.eighth{
+    background-color:#ef3580;
+
 }
