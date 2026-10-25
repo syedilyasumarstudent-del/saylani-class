@@ -1,0 +1,13 @@
+h1 { font-size: 64px;
+    color: #53ac13;
+}
+.parent{
+    height: 50px;
+    border: 5px solid #000;
+    width: 500vw;
+}
+.child{
+    height: 50px;
+    width: 500vw;
+    border: 5px solid #5f8a07;
+}
